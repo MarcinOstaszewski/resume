@@ -1,0 +1,124 @@
+{
+  "basics": {
+    "name": "Marcin Ostaszewski",
+    "label": "Front-end Developer",
+    "image": "",
+    "summary": "Front-End Developer, working for over 6 years in Scrum/Kanban methodology, with former experience in graphic design, video editing and animation.",
+    "website": "",
+    "email": "marcinostaszewski@gmail.com",
+    "location": {
+      "city": "Warsaw",
+      "countryCode": "PL"
+    },
+    "profiles": [
+      {
+        "url": "https://github.com/marcinostaszewski",
+        "username": "marcinostaszewski",
+        "network": "github"
+      },
+      {
+        "url": "https://www.linkedin.com/in/marcinostaszewski/",
+        "username": "marcinostaszewski",
+        "network": "linkedin"
+      }
+    ]
+  },
+  "education": [
+    {
+      "area": "Philosophy",
+      "studyType": "Masters",
+      "institution": "Warsaw University",
+      "endDate": "2003.06",
+      "startDate": "1998.10"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "React, Redux, AngularJS",
+        "HTML, JSX",
+        "SCSS, CSS, BEM, Styled Components",
+        "Javascript, Typescript",
+        "jQuery / Bootstrap / SAAS",
+        "Selenium / WebDriver / Jest",
+        "Used Figma for design and UX work",
+      ],
+      "level": "Mid",
+      "name": "Frontend"
+    }
+  ],
+  "work": [
+    {
+      "summary": "Medallia is in top 5 worldwide companies for Customer Experience...",
+      "website": "https://medallia.com/",
+      "name": "Medallia",
+      "location": "Madrid, Spain",
+      "position": "Software Engineer II",
+      "startDate": "2023-03-01",
+      "highlights": [
+        "Working as front-end dev in an international team of 20+ (Jira, GitHub, Figma)",
+        "I am implementing new views and features, fixing bugs, working on-call (React, TypeScript, MobX, Redux, StyledComponents, AngularJS, Jest)"
+      ],
+      "pinned": true,
+    },
+    {
+      "name": "Magnetic Point (software house)",
+      "location": "Szczecin, Poland",
+      "position": "Mid Front-end Developer",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-31",
+      "highlights": [
+        "I was working on various projects, mainly in an international, 20+ persons SCRUM team, for a big British e-commerce company (Jira, InVision)",
+        "I was closely cooperating with BEs and UIs (SalesForce, JS, jQuery, HTML, SASS, Zeplin, Jest)",
+        "I was reviewing front-end and back-end code changes (Azure, Bitbucket, Git)"
+      ]
+    },
+    {
+      "name": "AZA Group (e-commerce)",
+      "location": "Warsaw, Poland",
+      "position": "Front-end Developer",
+      "startDate": "2020-11-01",
+      "endDate": "2023-12-31",
+      "highlights": [
+        "I was an efficient member of a 15+ team in a SCRUM / Kanban project (Azure, Teams)",
+        "I was developing new features, fixing bugs, doing peer code reviews (JS, SASS, Cake PHP, Azure, Git)",
+        "I was refactoring and improving an administrative app (ReactJS, Redux, TypeScript) "
+      ]
+    },
+    {
+      "name": "Marcel (software for labs)",
+      "location": "Warsaw, Poland",
+      "position": "Front-end Developer",
+      "startDate": "2018-11-01",
+      "endDate": "2020-10-31",
+      "highlights": [
+        "I improved many features of a web app's UI and graphic design (HTML, CSS, JS, Jinja, AngularJS)",
+        "I wrote over a hundred of E2E tests of an AngularJS web app (Selenium Webdriver, JS)",
+        "I was developing an internal templating system for medical documentation"
+      ]
+    },
+    {
+      "name": "Mashkor (software dev team)",
+      "location": "Warsaw, Poland",
+      "position": "Front-end Developer",
+      "startDate": "2018-03-01",
+      "endDate": "2018-11-31",
+      "highlights": [
+        "As only front-end dev in a team of 5, I implemented full database admininstration panel, for a delivery on demand startup in Kuwait (JS, HTML, SAAS, REST, Bootstrap)",
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Miniature modeling"
+    }
+  ],
+  "references": [
+    {
+      "reference": "",
+      "name": ""
+    }
+  ]
+  "meta": {
+    "theme": "elegant"
+  }
