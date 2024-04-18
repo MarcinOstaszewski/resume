@@ -41,7 +41,7 @@
         "Javascript, Typescript",
         "jQuery / Bootstrap / SAAS",
         "Selenium / WebDriver / Jest",
-        "Used Figma for design and UX work",
+        "Used Figma for design and UX work"
       ],
       "level": "Mid",
       "name": "Frontend"
@@ -59,7 +59,7 @@
         "Working as front-end dev in an international team of 20+ (Jira, GitHub, Figma)",
         "I am implementing new views and features, fixing bugs, working on-call (React, TypeScript, MobX, Redux, StyledComponents, AngularJS, Jest)"
       ],
-      "pinned": true,
+      "pinned": true
     },
     {
       "name": "Magnetic Point (software house)",
@@ -104,7 +104,7 @@
       "startDate": "2018-03-01",
       "endDate": "2018-11-31",
       "highlights": [
-        "As only front-end dev in a team of 5, I implemented full database admininstration panel, for a delivery on demand startup in Kuwait (JS, HTML, SAAS, REST, Bootstrap)",
+        "As only front-end dev in a team of 5, I implemented full database admininstration panel, for a delivery on demand startup in Kuwait (JS, HTML, SAAS, REST, Bootstrap)"
       ]
     }
   ],
@@ -118,7 +118,8 @@
       "reference": "",
       "name": ""
     }
-  ]
+  ],
   "meta": {
     "theme": "elegant"
   }
+}
