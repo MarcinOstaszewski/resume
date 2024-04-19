@@ -2,13 +2,13 @@
   "basics": {
     "name": "Marcin Ostaszewski",
     "label": "Front-end Developer",
-    "image": "",
+    "image": "https://s.gravatar.com/avatar/beac9d1954ae5522d03df94c79ea52d3?size=256&cache=1713425649897",
     "summary": "Front-End Developer, working for over 6 years in Scrum/Kanban methodology, with former experience in graphic design, video editing and animation.",
-    "website": "",
+    "website": "https://gravatar.com/marcinostaszewski",
     "email": "marcinostaszewski@gmail.com",
     "location": {
-      "city": "Warsaw",
-      "countryCode": "PL"
+      "city": "Barcelona",
+      "countryCode": "ES"
     },
     "profiles": [
       {
@@ -28,20 +28,20 @@
       "area": "Philosophy",
       "studyType": "Masters",
       "institution": "Warsaw University",
-      "endDate": "2003.06",
-      "startDate": "1998.10"
+      "startDate": "1998-10-01",
+      "endDate": "2003-06-30"
     }
   ],
   "skills": [
     {
       "keywords": [
-        "React, Redux, AngularJS",
-        "HTML, JSX",
-        "SCSS, CSS, BEM, Styled Components",
+        "React, Redux, MobX, AngularJS",
         "Javascript, Typescript",
-        "jQuery / Bootstrap / SAAS",
-        "Selenium / WebDriver / Jest",
-        "Used Figma for design and UX work"
+        "JSX, HTML",
+        "SCSS, CSS, Styled Components",
+        "jQuery, Jinja, Bootstrap, SAAS",
+        "Selenium, WebDriver, Jasmine, Jest",
+        "Tools: Jira, Azure, GitHub, Bitbucket, SalesForce"
       ],
       "level": "Mid",
       "name": "Frontend"
@@ -49,44 +49,51 @@
   ],
   "work": [
     {
-      "summary": "Medallia is in top 5 worldwide companies for Customer Experience...",
-      "website": "https://medallia.com/",
       "name": "Medallia",
+      "summary": "Medallia is in top 5 worldwide companies for Customer Experience",
+      "website": "https://www.medallia.com/",
       "location": "Madrid, Spain",
       "position": "Software Engineer II",
       "startDate": "2023-03-01",
       "highlights": [
-        "Working as front-end dev in an international team of 20+ (Jira, GitHub, Figma)",
-        "I am implementing new views and features, fixing bugs, working on-call (React, TypeScript, MobX, Redux, StyledComponents, AngularJS, Jest)"
+        "As a member of an international team of 20+, I am developing an on-site platform for gathering customer surveys.",
+        "I am implementing new views and features, fixing bugs, working on-call (Jira, GitHub, Figma).",
+        "Developing mainly in React, TypeScript, MobX, Context, StyledComponents, AngularJS, Jest and Jasmine"
       ],
       "pinned": true
     },
     {
-      "name": "Magnetic Point (software house)",
+      "name": "Magnetic Point",
+      "summary": "Web development partner with over 20 years on the market, cooperating with various software companies from western Poland",
+      "website": "https://www.magneticpoint.com/",
       "location": "Szczecin, Poland",
       "position": "Mid Front-end Developer",
       "startDate": "2022-01-01",
       "endDate": "2023-01-31",
       "highlights": [
         "I was working on various projects, mainly in an international, 20+ persons SCRUM team, for a big British e-commerce company (Jira, InVision)",
-        "I was closely cooperating with BEs and UIs (SalesForce, JS, jQuery, HTML, SASS, Zeplin, Jest)",
-        "I was reviewing front-end and back-end code changes (Azure, Bitbucket, Git)"
+        "I was closely cooperating with BEs, UIs and QAs (SalesForce, JS, jQuery, HTML, SASS, Zeplin, Jest)",
+        "I was reviewing front-end and occasionally back-end code changes (Azure, Bitbucket, Git)"
       ]
     },
     {
-      "name": "AZA Group (e-commerce)",
+      "name": "AZA Group",
+      "summary": "Fashion e-commerce company from Poland, with branches in several countries of Central Europe, and an internal development team",
+      "website": "https://www.azagroup.eu",
       "location": "Warsaw, Poland",
       "position": "Front-end Developer",
       "startDate": "2020-11-01",
       "endDate": "2023-12-31",
       "highlights": [
         "I was an efficient member of a 15+ team in a SCRUM / Kanban project (Azure, Teams)",
-        "I was developing new features, fixing bugs, doing peer code reviews (JS, SASS, Cake PHP, Azure, Git)",
-        "I was refactoring and improving an administrative app (ReactJS, Redux, TypeScript) "
+        "I was improving and refactoring an administrative SPA web app (ReactJS, Redux, TypeScript) ",
+        "I was developing new features, fixing bugs, doing peer code reviews (JS, SASS, Cake PHP, Azure, Git)"
       ]
     },
     {
-      "name": "Marcel (software for labs)",
+      "name": "Marcel SA",
+      "summary": "One of the leaders in software development for laboratories in Poland, with over 30 years of experience and almost 100 employees.",
+      "website": "https://marcel.pl/",
       "location": "Warsaw, Poland",
       "position": "Front-end Developer",
       "startDate": "2018-11-01",
@@ -98,13 +105,15 @@
       ]
     },
     {
-      "name": "Mashkor (software dev team)",
+      "name": "Mashkor",
+      "summary": "Software development team of 5 persons, assembled in Warsaw to realise a project for start-up from Kuwait",
       "location": "Warsaw, Poland",
       "position": "Front-end Developer",
       "startDate": "2018-03-01",
-      "endDate": "2018-11-31",
+      "endDate": "2018-11-30",
       "highlights": [
-        "As only front-end dev in a team of 5, I implemented full database admininstration panel, for a delivery on demand startup in Kuwait (JS, HTML, SAAS, REST, Bootstrap)"
+        "As only front-end dev in team, I implemented user panel, to admininster a database through REST endpoints. (JS, HTML, SAAS, REST, Bootstrap)",
+        "Implementing new features almost every week and making weekly client demos (Azure, Git)"
       ]
     }
   ],
@@ -113,13 +122,7 @@
       "name": "Miniature modeling"
     }
   ],
-  "references": [
-    {
-      "reference": "",
-      "name": ""
-    }
-  ],
   "meta": {
-    "theme": "elegant"
+    "theme": "pumpkin"
   }
 }
