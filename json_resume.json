@@ -1,0 +1,130 @@
+{
+  "basics": {
+    "name": "Marcin Ostaszewski",
+    "label": "Front-end Developer (Mid)",
+    "image": "https://s.gravatar.com/avatar/beac9d1954ae5522d03df94c79ea52d3?size=256&cache=1713425649897",
+    "summary": "Front-end developer with over 6 years of experience in Scrum and Kanban methodologies, including more than 3 years working in multinational teams. Specialising in ReactJS (with Typescript, MobX or Redux, Hooks and Router), I also posess strong skills in Vanilla JS and some experience with AngularJS. Well prepared for debugging, maintaining and developing both modern and legacy code.",
+    "email": "marcinostaszewski@gmail.com",
+    "mobile": "+48 604 972 951",
+    "location": {
+      "city": "Warsaw",
+      "countryCode": "PL"
+    },
+    "profiles": [
+      {
+        "url": "https://github.com/marcinostaszewski",
+        "username": "marcinostaszewski",
+        "network": "github"
+      },
+      {
+        "url": "https://www.linkedin.com/in/marcinostaszewski/",
+        "username": "marcinostaszewski",
+        "network": "linkedin"
+      }
+    ]
+  },
+  "education": [
+    {
+      "area": "Philosophy",
+      "studyType": "Masters",
+      "institution": "Warsaw University",
+      "startDate": "1998-10-01",
+      "endDate": "2003-06-30"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "React, Redux, MobX, Context, AngularJS",
+        "Javascript, Typescript",
+        "JSX, HTML",
+        "SCSS, SASS, CSS, CSS in JS, Styled Components",
+        "jQuery, Bootstrap, Jinja, CakePHP",
+        "Jest, Selenium, WebDriver, Jasmine",
+        "Tools: Jira, Azure, GitHub, Bitbucket, SalesForce"
+      ],
+      "level": "Mid",
+      "name": "Frontend"
+    }
+  ],
+  "work": [
+    {
+      "name": "Medallia",
+      "summary": "Medallia is in top 5 worldwide companies for Customer Experience",
+      "website": "https://www.medallia.com/",
+      "location": "Madrid, Spain",
+      "position": "Software Engineer II",
+      "startDate": "2023-03-01",
+      "highlights": [
+        "I quickly familiarized myself with a large codebase of multiple microservices built with JS, React and AngularJS, successfully identifying and resolving numerous bugs.",
+        "Efficiently implemented numerous new features and complete views in a newly created service using modern React with Typescript, MobX, Router, Context API and Styled Components.",
+        "Collaborated actively with an international team of over 20 members, conducting code reviews and adding unit tests in Jest for existing code.",
+        "Occasionally participated in on-call support, finding reasons and proposing solutions for bugs reported by clients."
+      ],
+      "pinned": true
+    },
+    {
+      "name": "Magnetic Point",
+      "summary": "Web development partner with over 20 years on the market, cooperating with various software companies from western Poland",
+      "website": "https://www.magneticpoint.com/",
+      "location": "Szczecin, Poland",
+      "position": "Mid Front-end Developer",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-31",
+      "highlights": [
+        "Developed multiple subpages in Adobe Experience Manger (AEM) and added numerous new features for international clients, including Velo, EY, Bat, Coutts and Shell.",
+        "Qualified to work with a 20+ member international SCRUM team, for a major British e-commerce company, Halfords.",
+        "Effectively resolved all reported bugs and implemented new features, consistently enhancing the quality of both new and existing code using SalesForce, JS, jQuery, HTML, SASS, Zeplin and Jest.",
+        "Reviewing front-end and, to a lesser extent, back-end code changes, collaborating closely with back-end developers, UI designers, and QA team using Git, Azure DevOps and Bitbucket."
+      ]
+    },
+    {
+      "name": "AZA Group",
+      "summary": "Fashion e-commerce company from Poland, with branches in several countries of Central Europe, and an internal development team",
+      "website": "https://www.azagroup.eu",
+      "location": "Warsaw, Poland",
+      "position": "Front-end Developer",
+      "startDate": "2020-11-01",
+      "endDate": "2021-12-31",
+      "highlights": [
+        "Successfully working with three distinct codebases simultaneously: JS and jQuery, modern JS within a CakePHP framework, and ReactJS with TypeScript and Redux.",
+        "Efficiently resolved bugs, and enhanced the quality and readability of legacy code, making code reviews, solving dozens of complex CSS problems.",
+        "Refactored and greatly improved a medium-sized administrative single-page application, using ReactJS, Redux, TypeScript, Ant Design, Hooks and Router, completing the project well ahead of the deadline."
+      ]
+    },
+    {
+      "name": "Marcel SA",
+      "summary": "One of the leaders in software development for laboratories in Poland, with over 30 years of experience and almost 100 employees.",
+      "website": "https://marcel.pl/",
+      "location": "Warsaw, Poland",
+      "position": "Front-end Developer",
+      "startDate": "2018-11-01",
+      "endDate": "2020-10-31",
+      "highlights": [
+        "I improved many features of a web app's UI and graphic design (HTML, CSS, JS, Jinja, AngularJS).",
+        "I wrote over a hundred of E2E tests of an AngularJS web app (Selenium Webdriver, JS).",
+        "Single-handedly maintaining an internal templating system for medical documentation, used by hundreds of clients across Poland."
+      ]
+    },
+    {
+      "name": "Mashkor",
+      "summary": "Software development team of 5 persons, assembled in Warsaw to realise a project for a start-up from Kuwait",
+      "location": "Warsaw, Poland",
+      "position": "Front-end Developer",
+      "startDate": "2018-03-01",
+      "endDate": "2018-11-30",
+      "highlights": [
+        "Independently developed a comprehensive multi-view admin panel for managing a complex database via multiple REST endpoints. (JS, jQuery, HTML, SASS, REST, Bootstrap).",
+        "Implementing new features almost every week and making weekly client demos (Azure, Git)."
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "fantasy miniature modeling, do-it-yourself, fantasy and SF books, bike riding, board games"
+    }
+  ],
+  "meta": {
+    "theme": "elegant"
+  }
+}
