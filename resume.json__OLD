@@ -1,0 +1,131 @@
+{
+  "basics": {
+    "name": "Marcin Ostaszewski",
+    "label": "Front-end Developer (Mid)",
+    "image": "https://s.gravatar.com/avatar/beac9d1954ae5522d03df94c79ea52d3?size=256&cache=1713425649897",
+    "summary": "Front-end developer, working for over 6 years in Scrum/Kanban methodology, specialising in React and TS, experienced in graphic design and video editing.",
+    "website": "https://gravatar.com/marcinostaszewski",
+    "email": "marcinostaszewski@gmail.com",
+    "phone": "+48 604 972 951",
+    "mobile": "+48 604 972 951",
+    "location": {
+      "city": "Warsaw",
+      "countryCode": "PL"
+    },
+    "profiles": [
+      {
+        "url": "https://github.com/marcinostaszewski",
+        "username": "marcinostaszewski",
+        "network": "github"
+      },
+      {
+        "url": "https://www.linkedin.com/in/marcinostaszewski/",
+        "username": "marcinostaszewski",
+        "network": "linkedin"
+      }
+    ]
+  },
+  "education": [
+    {
+      "area": "Philosophy",
+      "studyType": "Masters",
+      "institution": "Warsaw University",
+      "startDate": "1998-10-01",
+      "endDate": "2003-06-30"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "React, Redux, MobX, Context, AngularJS",
+        "Javascript, Typescript",
+        "JSX, HTML",
+        "SCSS, CSS, Styled Components",
+        "jQuery, Jinja, Bootstrap, SAAS",
+        "Jest, Selenium, WebDriver, Jasmine",
+        "Tools: Jira, Azure, GitHub, Bitbucket, SalesForce"
+      ],
+      "level": "Mid",
+      "name": "Frontend"
+    }
+  ],
+  "work": [
+    {
+      "name": "Medallia",
+      "summary": "Medallia is in top 5 worldwide companies for Customer Experience",
+      "website": "https://www.medallia.com/",
+      "location": "Madrid, Spain",
+      "position": "Software Engineer II",
+      "startDate": "2023-03-01",
+      "endDate": "2024-07-31",
+      "highlights": [
+        "As a member of an international team of 20+, I was developing a multiservice platform of various solutions for gathering customer experience data.",
+        "I was implementing new views and features, fixing bugs, working on-call (Jira, GitHub, Figma).",
+        "Developing mainly in React, TypeScript, MobX, Context, StyledComponents, AngularJS, Jest and Jasmine"
+      ],
+      "pinned": true
+    },
+    {
+      "name": "Magnetic Point",
+      "summary": "Web development partner with over 20 years on the market, cooperating with various software companies from western Poland",
+      "website": "https://www.magneticpoint.com/",
+      "location": "Szczecin, Poland",
+      "position": "Mid Front-end Developer",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-31",
+      "highlights": [
+        "I was working on various projects, mainly in an international, 20+ persons SCRUM team, for a big British e-commerce company (Jira, InVision)",
+        "I was closely cooperating with BEs, UIs and QAs (SalesForce, JS, jQuery, HTML, SASS, Zeplin, Jest)",
+        "I was reviewing front-end and occasionally back-end code changes (Azure, Bitbucket, Git)"
+      ]
+    },
+    {
+      "name": "AZA Group",
+      "summary": "Fashion e-commerce company from Poland, with branches in several countries of Central Europe, and an internal development team",
+      "website": "https://www.azagroup.eu",
+      "location": "Warsaw, Poland",
+      "position": "Front-end Developer",
+      "startDate": "2020-11-01",
+      "endDate": "2023-12-31",
+      "highlights": [
+        "I was an efficient member of a 15+ team in a SCRUM / Kanban project (Azure, Teams)",
+        "I was improving and refactoring an administrative SPA web app (ReactJS, Redux, TypeScript) ",
+        "I was developing new features, fixing bugs, doing peer code reviews (JS, SASS, Cake PHP, Azure, Git)"
+      ]
+    },
+    {
+      "name": "Marcel SA",
+      "summary": "One of the leaders in software development for laboratories in Poland, with over 30 years of experience and almost 100 employees.",
+      "website": "https://marcel.pl/",
+      "location": "Warsaw, Poland",
+      "position": "Front-end Developer",
+      "startDate": "2018-11-01",
+      "endDate": "2020-10-31",
+      "highlights": [
+        "I improved many features of a web app's UI and graphic design (HTML, CSS, JS, Jinja, AngularJS)",
+        "I wrote over a hundred of E2E tests of an AngularJS web app (Selenium Webdriver, JS)",
+        "I was developing an internal templating system for medical documentation"
+      ]
+    },
+    {
+      "name": "Mashkor",
+      "summary": "Software development team of 5 persons, assembled in Warsaw to realise a project for a start-up from Kuwait",
+      "location": "Warsaw, Poland",
+      "position": "Front-end Developer",
+      "startDate": "2018-03-01",
+      "endDate": "2018-11-30",
+      "highlights": [
+        "As only front-end dev in team, I implemented user panel, to admininster a database through REST endpoints. (JS, HTML, SAAS, REST, Bootstrap)",
+        "Implementing new features almost every week and making weekly client demos (Azure, Git)"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "fantasy miniature modeling, do-it-yourself, bike riding, fantasy and S-F books, board games"
+    }
+  ],
+  "meta": {
+    "theme": "elegant"
+  }
+}
