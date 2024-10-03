@@ -3,7 +3,10 @@
 // https://registry.jsonresume.org/marcinostaszewski?theme=relaxed
 
 (function() {
-  const marks = document.querySelectorAll('.marks mark');
+  const progressBar = document.querySelector('div[title="Mid"]');
+  progressBar.outerHTML = "";
+  
+  const marks = document.querySelectorAll('.keywords mark');
   marks.forEach(mark => {
     mark.style.color = '#333';
     mark.style.backgroundColor = '#fff';
