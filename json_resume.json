@@ -25,9 +25,9 @@
   },
   "education": [
     {
+      "institution": "Warsaw University",
       "area": "Philosophy",
       "studyType": "Masters",
-      "institution": "Warsaw University",
       "startDate": "1998-10-01",
       "endDate": "2003-06-30"
     }
