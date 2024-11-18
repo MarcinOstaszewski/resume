@@ -3,9 +3,9 @@
     "name": "Marcin Ostaszewski",
     "label": "Front-end Developer (Mid)",
     "image": "https://s.gravatar.com/avatar/beac9d1954ae5522d03df94c79ea52d3?size=256&cache=1713425649897",
-    "summary": "Front-end developer with over 6 years of experience in Scrum and Kanban methodologies, including more than 3 years working in multinational teams. Specialising in ReactJS (with Typescript, MobX or Redux, Hooks and Router), I also posess strong skills in Vanilla JS and some experience with AngularJS. Well prepared for debugging, maintaining and developing both modern and legacy code.",
+    "summary": "I am a Front-end developer for over 6 years, including 3 years working in multinational teams. I also have strong experience in office, administration and marketing work, like: writing formal, informal and technical texts, managing documentation and contacting with clients. I worked with a lot of different computer systems, equipments and software.",
     "email": "marcinostaszewski@gmail.com",
-    "mobile": "+48 604 972 951",
+    "phone": "+48 604 972 951",
     "location": {
       "city": "Warsaw",
       "countryCode": "PL"
@@ -26,29 +26,29 @@
   "education": [
     {
       "institution": "Coders Lab",
-      "area": "JavaScript, ReactJS",
-      "studyType": "Intensive programming bootcamp",
+      "area": "JavaScript and React.JS",
+      "studyType": "Intensive Programming Bootcamp",
       "startDate": "2017-10-01",
       "endDate": "2017-12-16"
     },
     {
-      "institution": "Collage, Post-Secondary School of Art",
-      "area": "design, art history, computer graphics",
-      "studyType": "Graphic Design",
+      "institution": "Collage",
+      "area": "Computer Graphics, Design, History of Art",
+      "studyType": "Post-Secondary School of Art",
       "startDate": "2009-10-01",
       "endDate": "2011-06-30"
     },
     {
       "institution": "SGH (Warsaw School of Economics)",
       "area": "Marekting Strategies",
-      "studyType": "Weekend studies",
+      "studyType": "Weekend Studies",
       "startDate": "2007-10-01",
       "endDate": "2008-06-20"
     },
     {
       "institution": "Warsaw University",
       "area": "Philosophy",
-      "studyType": "Masters",
+      "studyType": "Masters degree",
       "startDate": "1998-10-01",
       "endDate": "2003-06-30"
     }
@@ -56,22 +56,46 @@
   "skills": [
     {
       "keywords": [
-        "React, Redux, MobX, Context, AngularJS",
-        "Javascript, Typescript",
-        "JSX, HTML",
-        "CSS3, SCSS, CSS Modules, Styled Components, Tailwind",
+        "Javascript, Typescript, JSX, HTML",
+        "React, Redux, Context, MobX, AngularJS",
         "jQuery, Bootstrap, Jinja, CakePHP",
-        "Jest, Selenium, WebDriver, Jasmine",
-        "Tools: Jira, Azure, GitHub, Bitbucket, SalesForce"
+        "CSS3, SCSS, CSS Modules, Styled Components, Tailwind"
       ],
       "level": "Mid",
-      "name": "Frontend"
+      "name": "Programming"
+    },
+    {
+      "keywords": [
+        "Jest, Selenium, WebDriver, Jasmine"
+      ],
+      "level": "Mid",
+      "name": "Testing"
+    },
+    {
+      "keywords": [
+        "Jira, Azure, GitHub, GitLab, Bitbucket, SalesForce, Adobe Experience Manager"
+      ],
+      "level": "Mid",
+      "name": "Tools"
+    },
+    {
+      "keywords": ["Word", "Excel", "Outlook", "PowerPoint", "Photoshop", "Illustrator", "InDesign", "Premiere", "After Effects", "GIMP", "Inkscape", "Blender"
+      ],
+      "level": "Mid",
+      "name": "Software"
+    },
+    {
+      "keywords": [
+        "English (C1), Russian (B2), Spanish (B1)"
+      ],
+      "level": "Mid",
+      "name": "Languages"
     }
   ],
   "work": [
     {
       "name": "3FCODE",
-      "summary": "Self-employed freenlancer.",
+      "summary": "self-employed freenlancer.",
       "location": "Warsaw, Poland",
       "position": "Front-end Developer",
       "startDate": "2024-07-01",
@@ -82,7 +106,7 @@
     },
     {
       "name": "Medallia",
-      "summary": "Medallia is in top 5 worldwide companies for Customer Experience",
+      "summary": "one of top 5 worldwide companies for Customer Experience",
       "website": "https://www.medallia.com/",
       "location": "Madrid, Spain",
       "position": "Software Engineer II",
@@ -91,22 +115,22 @@
       "highlights": [
         "I quickly familiarized myself with a large codebase of multiple microservices built with JS, React and AngularJS, successfully identifying and resolving numerous bugs.",
         "Efficiently implemented numerous new features and complete views in a newly created service using modern React with Typescript, MobX, Router, Context API and Styled Components.",
-        "Developed numerous features in a legacy AngularJS service, improving the quality of the code and the user experience.",
+        "Developed numerous features in an AngularJS service, improving the quality of the code and user experience.",
         "Collaborated actively with an international team of over 20 members, conducting code reviews, adding unit tests in Jest for existing code and improving Web Accessibility.",
-        "Occasionally participated in on-call support, finding reasons and proposing solutions for bugs reported by clients."
+        "Participated in on-call support, finding reasons and proposing solutions for bugs reported by clients."
       ],
       "pinned": true
     },
     {
       "name": "Magnetic Point",
-      "summary": "Web development partner with over 20 years on the market, cooperating with various software companies from western Poland",
+      "summary": "web development partner with over 20 years on the market",
       "website": "https://www.magneticpoint.com/",
       "location": "Szczecin, Poland",
       "position": "Mid Front-end Developer",
       "startDate": "2022-01-01",
       "endDate": "2023-01-31",
       "highlights": [
-        "Qualified to work with a 20+ member international SCRUM team, for a major British e-commerce company, Halfords.",
+        "Qualified for a 20+ member international SCRUM team, for a major British e-commerce company, Halfords.",
         "Effectively implemented dozens of new features and resolved all reported bugs, consistently enhancing the quality of both new and existing code using SalesForce, JS, jQuery, HTML, SASS, Zeplin and Jest.",
         "Developed multiple subpages in Adobe Experience Manger (AEM) and added numerous new features for international clients, including Velo, EY, Bat, Coutts and Shell.",
         "Reviewing front-end and, to a lesser extent, back-end code changes, collaborating closely with back-end developers, UI designers, and QA team using Git, Azure DevOps and Bitbucket."
@@ -114,10 +138,10 @@
     },
     {
       "name": "AZA Group",
-      "summary": "Fashion e-commerce company from Poland, with branches in several countries of Central Europe, and an internal development team",
+      "summary": "fashion e-commerce company from Poland, with branches in several countries of Central Europe",
       "website": "https://www.azagroup.eu",
       "location": "Warsaw, Poland",
-      "position": "Front-end Developer",
+      "position": "Junior Front-end Developer",
       "startDate": "2020-11-01",
       "endDate": "2021-12-31",
       "highlights": [
@@ -130,35 +154,35 @@
     },
     {
       "name": "Marcel SA",
-      "summary": "One of the leaders in software development for laboratories in Poland, with over 30 years of experience and almost 100 employees.",
+      "summary": "for over 30 years one of the leaders in software development for laboratories in Poland",
       "website": "https://marcel.pl/",
       "location": "Warsaw, Poland",
-      "position": "Front-end Developer",
+      "position": "Junior Front-end Developer",
       "startDate": "2018-11-01",
       "endDate": "2020-10-31",
       "highlights": [
-        "I improved many features of a web app's UI and graphic design (HTML, CSS, JS, Jinja, AngularJS).",
-        "I wrote over a hundred of E2E tests of an AngularJS web app (Selenium Webdriver, JS).",
-        "Single-handedly maintaining an internal templating system for medical documentation, used by hundreds of clients across Poland."
+        "I improved many features of a web app's UI and graphic design (HTML, CSS, JS, Jinja, AngularJS)",
+        "I wrote over a hundred of E2E tests of an AngularJS web app (Selenium Webdriver, JS)",
+        "Single-handedly maintaining an internal templating system for medical documentation, used by hundreds of clients across Poland"
       ]
     },
     {
       "name": "Mashkor",
-      "summary": "Software development team of 5 persons, assembled in Warsaw to realise a project for a start-up from Kuwait",
+      "summary": "small software development team, realising a project for a start-up from Kuwait",
       "location": "Warsaw, Poland",
-      "position": "Front-end Developer",
+      "position": "Junior Front-end Developer",
       "startDate": "2018-03-01",
       "endDate": "2018-11-30",
       "highlights": [
-        "Independently developed a comprehensive multi-view admin panel for managing a complex database via multiple REST endpoints. (JS, jQuery, HTML, SASS, REST, Bootstrap).",
-        "Implementing new features almost every week and making weekly client demos (Azure, Git)."
+        "Independently developed a comprehensive multi-view admin panel for managing a complex database via multiple REST endpoints. (JS, jQuery, HTML, SASS, REST, Bootstrap)",
+        "Implementing new features almost every week and making weekly client demos (Azure, Git)"
       ]
     },
     {
       "name": "'Rampa' Theatre",
-      "summary": "Music theatre producing plays for children and adults.",
+      "summary": "music theatre producing plays for children and adults",
       "location": "Warsaw, Poland",
-      "position": "Marketing Specialist, Graphic Designer, Editor",
+      "position": "Marketing Specialist, Graphic Designer",
       "startDate": "2014-09-01",
       "endDate": "2019-03-31",
       "highlights": [
@@ -170,83 +194,79 @@
     },
     {
       "name": "CompLex PR",
-      "summary": "PR and event Agency working mainly for Toyota Motor Poland.",
+      "summary": "PR and event agency working mainly for Toyota Motor Poland",
       "location": "Warsaw, Poland",
       "position": "Part Time Video Editor",
       "startDate": "2014-09-01",
       "endDate": "2019-03-31",
       "highlights": [
-        "Editing & creating short movies for Toyota Motor Poland."
+        "Editing & creating short movies for Toyota Motor Poland"
       ],
       "pinned": false
     },
     {
       "name": "Axel Springer",
-      "summary": "One of the biggest Polish news portal.",
+      "summary": "one of the biggest Polish news portal",
       "location": "Warsaw, Poland",
       "position": "Photo Editor",
       "startDate": "2009-07-01",
       "endDate": "2009-08-31",
       "highlights": [
-        "Editing & creating short movies for Toyota Motor Poland."
+        "Editing & creating short movies for Toyota Motor Poland"
       ],
       "pinned": false
     },
     {
       "name": "Agora AG",
-      "summary": "One of the biggest Polish news portal.",
+      "summary": "one of the biggest Polish news portal",
       "location": "Warsaw, Poland",
       "position": "Video and Internet Editor",
       "startDate": "2008-08-01",
       "endDate": "2009-04-31",
       "highlights": [
-        "Recording and editing videos, making animations, positioning content in CMS."
+        "Recording and editing videos, making animations, positioning content in CMS"
       ],
       "pinned": false
     },
     {
       "name": "Auchan Poland",
-      "summary": "One of the world's largest retailers.",
+      "summary": "one of the world's largest retailers",
       "location": "Warsaw, Poland",
       "position": "Assistant in Bying Center",
       "startDate": "2007-03-01",
       "endDate": "2008-07-31",
       "highlights": [
-        "Creating reports and presentations, analysing sales data, organising internal meetings, processing data in Excel."
+        "Creating reports and presentations, analysing sales data, organising meetings, processing data in Excel"
       ],
       "pinned": false
     },
     {
       "name": "National Contact Point for EU Programs",
-      "summary": "One of the world's largest retailers.",
+      "summary": "beaureau for help and assistance in obtaining EU funds",
       "location": "Warsaw, Poland",
       "position": "Assistant",
       "startDate": "2005-12-01",
       "endDate": "2006-12-31",
       "highlights": [
-        "Writing, editing and translating informational texts, validating scientific documents, organising events."
+        "Writing, editing and translating informational texts, validating scientific documents, organising events"
       ],
       "pinned": false
     },
     {
       "name": "CompLex",
-      "summary": "PR and event Agency for IT companies",
+      "summary": "PR and event agency for IT companies",
       "location": "Warsaw, Poland",
       "position": "Account Executive",
       "startDate": "2005-12-01",
       "endDate": "2006-12-31",
       "highlights": [
-        "Managing a CMS webpage (Joomla), translating press informations, coorganising events"
+        "Managing a CMS webpage (Joomla), editing and translating press informations, coorganising events"
       ],
       "pinned": false
     }
   ],
-  "interests": [
-    {
-      "name": "fantasy miniature modeling, do-it-yourself, fantasy and SF books, bike riding, board games"
-    }
-  ],
+
   "meta": {
-    "theme": "elegant"
+    "theme": "professional"
   }
 }
