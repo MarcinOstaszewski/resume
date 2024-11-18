@@ -1,0 +1,271 @@
+{
+  "basics": {
+    "name": "Marcin Ostaszewski",
+    "label": "Front-end Developer (Mid)",
+    "image": "https://s.gravatar.com/avatar/beac9d1954ae5522d03df94c79ea52d3?size=256&cache=1713425649897",
+    "summary": "Jestem front-end developerem z ponad 6-letnim doświadczeniem, w tym 3 lata pracy w zespołach międzynarodowych. Mam również bogate doświadczenie w pracy biurowej, administracyjnej i marketingowej, takich jak: pisanie tekstów formalnych, nieformalnych i technicznych, zarządzanie dokumentacją i kontakt z klientami. Pracowałem z wieloma różnymi systemami komputerowymi, sprzętem i oprogramowaniem.",
+    "email": "marcinostaszewski@gmail.com",
+    "phone": "+48 604 972 951",
+    "location": {
+      "city": "Warszawa",
+      "countryCode": "PL"
+    },
+    "profiles": [
+      {
+        "url": "https://github.com/marcinostaszewski",
+        "username": "marcinostaszewski",
+        "network": "github"
+      },
+      {
+        "url": "https://www.linkedin.com/in/marcinostaszewski/",
+        "username": "marcinostaszewski",
+        "network": "linkedin"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Coders Lab",
+      "area": "JavaScript i React.JS",
+      "studyType": "Intensywny bootcamp programistyczny",
+      "startDate": "2017-10-01",
+      "endDate": "2017-12-16"
+    },
+    {
+      "institution": "Collage",
+      "area": "Grafika komputerowa, projektowanie, historia sztuki",
+      "studyType": "Policealne studium artystyczne",
+      "startDate": "2009-10-01",
+      "endDate": "2011-06-30"
+    },
+    {
+      "institution": "SGH",
+      "area": "Strategie marketingowe",
+      "studyType": "Studia weekendowe",
+      "startDate": "2007-10-01",
+      "endDate": "2008-06-20"
+    },
+    {
+      "institution": "Uniwersytet Warszawski",
+      "area": "Filozofia",
+      "studyType": "Magisterskie",
+      "startDate": "1998-10-01",
+      "endDate": "2003-06-30"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Javascript, Typescript, JSX, HTML",
+        "React, Redux, Context, MobX, AngularJS",
+        "jQuery, Bootstrap, Jinja, CakePHP",
+        "CSS3, SCSS, CSS Modules, Styled Components, Tailwind"
+      ],
+      "level": "Mid",
+      "name": "Programowanie"
+    },
+    {
+      "keywords": [
+        "Jest, Selenium, WebDriver, Jasmine"
+      ],
+      "level": "Mid",
+      "name": "Testowanie"
+    },
+    {
+      "keywords": [
+        "Jira, Azure, GitHub, GitLab, Bitbucket, SalesForce, Adobe Experience Manager"
+      ],
+      "level": "Mid",
+      "name": "Narzędzia"
+    },
+    {
+      "keywords": ["Word", "Excel", "Outlook", "PowerPoint", "Photoshop", "Illustrator", "InDesign", "Premiere", "After Effects", "GIMP", "Inkscape", "Blender"
+      ],
+      "level": "Mid",
+      "name": "Oprogramowanie"
+    },
+    {
+      "keywords": [
+        "Angielski (C1), Rosyjski (B2), Hiszpański (B1)"
+      ],
+      "level": "Mid",
+      "name": "Języki"
+    }
+  ],
+  "work": [
+    {
+      "name": "3FCODE",
+      "summary": "właściciel firmy, freelancer",
+      "location": "Warszawa, Polska",
+      "position": "Front-end Developer",
+      "startDate": "2024-07-01",
+      "highlights": [
+        "Pracuję dla klientów z Polski, tworzę dostosowane do potrzeb strony i aplikacje internetowe."
+      ],
+      "pinned": true
+    },
+    {
+      "name": "Medallia",
+      "summary": "jedna z 5 najważniejszych firm na świecie w gromadzeniu i analizie doświadczeń klientów",
+      "website": "https://www.medallia.com/",
+      "location": "Madryt, Hiszpania",
+      "position": "Software Engineer II",
+      "startDate": "2023-03-01",
+      "endDate": "2024-06-31",
+      "highlights": [
+        "Szybko zapoznałem się z dużą bazą kodu zbudowaną z wielu mikrousług opartych na JS, React i AngularJS oraz skutecznie identyfikowałem i rozwiązywałem liczne błędy.",
+        "Efektywnie zaimplementowałem wiele nowych funkcji i pełnych widoków stron w nowo tworzonej usłudze z użyciem aktualnej wersji Reacta z TypeScript, MobX, Router, Context API i Styled Components.",
+        "Rozwijałem liczne funkcje w usłudze AngularJS, poprawiałem jakość kodu i doświadczenia użytkownika.",
+        "Aktywnie współpracowałem z 20-osobowym, międzynarodowym zespołem SCRUM, przeglądałem kod, tworzyłem testy jednostkowe, podnosiłem dostępność stron, rozwiązywałem znalezione problemy."
+      ],
+      "pinned": true
+    },
+    {
+      "name": "Magnetic Point",
+      "summary": "partner w zakresie tworzenia stron internetowych z ponad 20-letnim doświadczeniem na rynku",
+      "website": "https://www.magneticpoint.com/",
+      "location": "Szczecin, Polska",
+      "position": "Mid Front-end Developer",
+      "startDate": "2022-01-01",
+      "endDate": "2023-01-31",
+      "highlights": [
+        "Zakwalifikowałem się do międzynarodowego zespołu SCRUM liczącego ponad 20 osób, pracującego dla brytyjskiej firmy e-commerce Halfords.",
+        "Efektywnie zaimplementowałem dziesiątki nowych funkcji i rozwiązywałem zgłaszane błędy, stale poprawiając jakość kodu nowego i istniejącego, z użyciem SalesForce, JS, jQuery, HTML, SASS, Zeplin i Jest.",
+        "Stworzyłem wiele podstron w Adobe Experience Manager (AEM) oraz dodałem liczne nowe funkcje dla międzynarodowych klientów, takich jak Velo, EY, Bat, Coutts i Shell.",
+        "Recenzowałem zmiany w kodzie front-endowym, a w mniejszym stopniu również back-endowym, współpracowałem z programistami back-endowymi, projektantami UI i zespołem QA przy użyciu Git, Azure DevOps i Bitbucket."
+      ]
+    },
+    {
+      "name": "AZA Group",
+      "summary": "polska firma e-commerce w branży modowej, posiadająca oddziały w kilku krajach Europy Środkowej",
+      "website": "https://www.azagroup.eu",
+      "location": "Warszawa, Polska",
+      "position": "Junior Front-end Developer",
+      "startDate": "2020-11-01",
+      "endDate": "2021-12-31",
+      "highlights": [
+        "Refaktoryzowałem i znacznie ulepszyłem średniej wielkości aplikację administracyjną typu single-page, wykorzystując ReactJS, Redux, TypeScript, Ant Design, Hooks i Router. Ukończyłem projekt znacznie przed terminem.",
+        "Zidentyfikowałem i rozwiązałem wiele problemów z wydajnością ładowania strony, SEO i przemieszczaniem się elementów strony, poprzez optymalizację obrazów oraz opóźnienie ich ładowania, uzupełnianie ustrukturyzowanych danych i krytycznego CSS.",
+        "Poprawiłem dostępność stron poprzez dodanie atrybutów ARIA, nawigacji klawiaturowej, zarządzanie fokusem i rozwiązywanie problemów zgłaszanych przez Lighthouse.",
+        "Pracowałem jednocześnie z trzema różnymi bazami kodu: JS i jQuery, nowoczesnym JS w ramach CakePHP oraz ReactJS z TypeScript i Redux.",
+        "Efektywnie rozwiązywałem błędy oraz poprawiałem jakość i czytelność starszego kodu, przeglądałem cudze zmiany w kodzie, rozwiązałem dziesiątki złożonych problemów stylowania stron."
+      ]
+    },
+    {
+      "name": "Marcel SA",
+      "summary": "od ponad 30 lat jeden z liderów w tworzeniu oprogramowania dla laboratoriów w Polsce",
+      "website": "https://marcel.pl/",
+      "location": "Warszawa, Polska",
+      "position": "Junior Front-end Developer",
+      "startDate": "2018-11-01",
+      "endDate": "2020-10-31",
+      "highlights": [
+        "Usprawniłem wiele funkcji interfejsu użytkownika i projektów graficznych aplikacji webowej (HTML, CSS, JS, Jinja, AngularJS).",
+        "Napisałem ponad sto testów E2E dla aplikacji AngularJS (Selenium Webdriver, JS).",
+        "Samodzielnie utrzymywałem wewnętrzny system szablonów dokumentacji medycznej używany przez setki klientów w Polsce."
+      ]
+    },
+    {
+      "name": "Mashkor",
+      "summary": "5-cio osobowy zespół programistów, realizujący projekt dla start-upu z Kuwejtu",
+      "location": "Warszawa, Polska",
+      "position": "Junior Front-end Developer",
+      "startDate": "2018-03-01",
+      "endDate": "2018-11-30",
+      "highlights": [
+        "Samodzielnie stworzyłem kompleksowy panel administracyjny do zarządzania złożoną bazą danych, z wykorzystaniem komunikacji REST. (JS, jQuery, HTML, SASS, REST, Bootstrap).",
+        "Cotygodniowo wdrażałem nowe funkcje i przeprowadzałem demonstrację dla klientów (Teams, Azure, Git)."
+      ]
+    },
+    {
+      "name": "Teatr 'Rampa'",
+      "summary": "teatr muzyczny tworzący spektakle dla dzieci i dorosłych",
+      "location": "Warszawa, Polska",
+      "position": "Specjalista ds. marketingu, Grafik",
+      "startDate": "2014-09-01",
+      "endDate": "2019-03-31",
+      "highlights": [
+        "Administracja stroną internetową i profilami w mediach społecznościowych.",
+        "Projektowanie reklam, ulotek, banerów, programów, biletów itp.",
+        "Redagowanie tekstów promocyjnych, montaż filmów i zdjęć."
+      ],
+      "pinned": false
+    },
+    {
+      "name": "CompLex PR",
+      "summary": "agencja PR i eventowa współpracująca głównie z Toyota Motor Poland",
+      "location": "Warszawa, Polska",
+      "position": "Częściowy etat, Montażysta Wideo",
+      "startDate": "2014-09-01",
+      "endDate": "2019-03-31",
+      "highlights": [
+        "Montaż i tworzenie krótkich filmów dla Toyota Motor Poland."
+      ],
+      "pinned": false
+    },
+    {
+      "name": "Axel Springer",
+      "summary": "jeden z największych polskich portali informacyjnych",
+      "location": "Warszawa, Polska",
+      "position": "Edytor zdjęć",
+      "startDate": "2009-07-01",
+      "endDate": "2009-08-31",
+      "highlights": [
+        "Edycja zdjęć oraz tworzenie krótkich filmów promocyjnych dla portalu."
+      ],
+      "pinned": false
+    },
+    {
+      "name": "Agora AG",
+      "summary": "jeden z największych polskich portali informacyjnych",
+      "location": "Warszawa, Polska",
+      "position": "Edytor wideo i treści internetowych",
+      "startDate": "2008-08-01",
+      "endDate": "2009-04-30",
+      "highlights": [
+        "Nagrywanie i montaż materiałów wideo, tworzenie animacji, pozycjonowanie treści w systemie CMS."
+      ],
+      "pinned": false
+    },
+    {
+      "name": "Auchan Polska",
+      "summary": "jedna z największych sieci detalicznych na świecie",
+      "location": "Warszawa, Polska",
+      "position": "Asystent w Centrum Zakupowym",
+      "startDate": "2007-03-01",
+      "endDate": "2008-07-31",
+      "highlights": [
+        "Tworzenie raportów i prezentacji, analiza danych sprzedażowych, organizacja spotkań, przetwarzanie danych w Excelu."
+      ],
+      "pinned": false
+    },
+    {
+      "name": "Krajowy Punkt Kontaktowy Programów UE",
+      "summary": "biuro wspierające w pozyskiwaniu funduszy unijnych",
+      "location": "Warszawa, Polska",
+      "position": "Asystent",
+      "startDate": "2005-12-01",
+      "endDate": "2006-12-31",
+      "highlights": [
+        "Pisanie, redagowanie i tłumaczenie tekstów informacyjnych, weryfikacja dokumentów naukowych, organizacja wydarzeń."
+      ],
+      "pinned": false
+    },
+    {
+      "name": "CompLex",
+      "summary": "agencja PR i eventowa dla firm IT",
+      "location": "Warszawa, Polska",
+      "position": "Account Executive",
+      "startDate": "2005-12-01",
+      "endDate": "2006-12-31",
+      "highlights": [
+        "Zarządzanie stroną internetową CMS (Joomla), redagowanie i tłumaczenie informacji prasowych, współorganizacja wydarzeń."
+      ],
+      "pinned": false
+    }
+  ],
+
+  "meta": {
+    "theme": "professional"
+  }
+}
