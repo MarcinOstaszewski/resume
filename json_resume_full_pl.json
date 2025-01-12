@@ -3,7 +3,7 @@
     "name": "Marcin Ostaszewski",
     "label": "Front-end Developer (Mid)",
     "image": "https://s.gravatar.com/avatar/beac9d1954ae5522d03df94c79ea52d3?size=256&cache=1713425649897",
-    "summary": "Jestem front-end developerem z ponad 6-letnim doświadczeniem, w tym 3 lata pracowałem w zespołach międzynarodowych. Mam też bogate doświadczenie w pracy biurowej, administracyjnej i marketingowej, takich jak: pisanie tekstów formalnych, nieformalnych i technicznych, zarządzanie dokumentacją i kontakt z klientami. Biegle obsługuję wiele systemów, urządzeń i programów.",
+    "summary": "Od ponad 6 lat programuję strony internetowe, z czego 3 lata w zespołach międzynarodowych. Wcześniej zajmowałem się projektowaniem i edycją grafiki, filmów i animacji oraz obsługiwałem portal internetowy, media społecznościowe i wysyłkę newslettera. Zdobyłem doświadczenie w pracy biurowej, administracyjnej i marketingowej. Umiem dobrze pisać teksty formalne, nieformalne i techniczne. Biegle obsługuję wiele systemów, urządzeń i programów komputerowych. Niedawno rozpocząłem pracę jako nauczyciel informatyki w SP i LO. Przed końcem tego roku planuję ukończyć zaoczne studia z Przygotowania Pedagogicznego.",
     "email": "marcinostaszewski@gmail.com",
     "phone": "+48 604 972 951",
     "location": {
@@ -25,8 +25,14 @@
   },
   "education": [
     {
+      "institution": "Lubelska Szkoła Wyższa",
+      "area": "Przygotowanie Pedagogiczne",
+      "studyType": "Studia zaoczne online",
+      "startDate": "2024-10-01"
+    },
+    {
       "institution": "Coders Lab",
-      "area": "JavaScript i React.JS",
+      "area": "JavaScript i ReactJS",
       "studyType": "Intensywny bootcamp programistyczny",
       "startDate": "2017-10-01",
       "endDate": "2017-12-16"
@@ -57,7 +63,7 @@
     {
       "keywords": [
         "Javascript, Typescript, JSX, HTML",
-        "React, Redux, Context, MobX, AngularJS",
+        "ReactJS, Redux, Context, MobX, AngularJS",
         "jQuery, Bootstrap, Jinja, CakePHP",
         "CSS3, SCSS, CSS Modules, Styled Components, Tailwind"
       ],
@@ -107,7 +113,7 @@
     },
     {
       "name": "3FCODE",
-      "summary": "właściciel firmy, freelancer",
+      "summary": "Właściciel firmy, freelancer",
       "location": "Warszawa, Polska",
       "position": "Front-end Developer",
       "startDate": "2024-07-01",
@@ -118,23 +124,23 @@
     },
     {
       "name": "Medallia",
-      "summary": "jedna z 5 najważniejszych firm na świecie w gromadzeniu i analizie doświadczeń klientów",
+      "summary": "Jedna z 5 najważniejszych firm na świecie w gromadzeniu i analizie doświadczeń klientów",
       "website": "https://www.medallia.com/",
       "location": "Madryt, Hiszpania",
       "position": "Software Engineer II",
       "endDate": "2024-06-31",
       "startDate": "2023-03-01",
       "highlights": [
-        "Szybko zapoznałem się z dużą bazą kodu zbudowaną z wielu mikrousług opartych na JS, React i AngularJS oraz skutecznie identyfikowałem i rozwiązywałem liczne błędy.",
-        "Efektywnie zaimplementowałem wiele nowych funkcji i pełnych widoków stron w nowo tworzonej usłudze z użyciem aktualnej wersji Reacta z TypeScript, MobX, Router, Context API i Styled Components.",
-        "Rozwijałem liczne funkcje w usłudze AngularJS, poprawiałem jakość kodu i doświadczenia użytkownika.",
+        "Szybko zapoznałem się z dużą bazą kodu zbudowaną z wielu mikrousług opartych na JS, ReactJS i AngularJS oraz skutecznie rozwiązywałem przydzielane zadania.",
+        "Efektywnie zaimplementowałem wiele nowych funkcji i pełnych widoków stron w ReactJS 18 z TypeScript, MobX, Router, Context API i Styled Components.",
+        "Rozwijałem nowe funkcje w AngularJS, pracowałem nad poprawą wrażenia użytkowników i jakością kodu.",
         "Aktywnie współpracowałem z 20-osobowym, międzynarodowym zespołem SCRUM, przeglądałem kod, tworzyłem testy jednostkowe, podnosiłem dostępność stron, rozwiązywałem znalezione problemy."
       ],
       "pinned": true
     },
     {
       "name": "Magnetic Point",
-      "summary": "partner w zakresie tworzenia stron internetowych z ponad 20-letnim doświadczeniem na rynku",
+      "summary": "Partner w zakresie tworzenia stron internetowych z ponad 20-letnim doświadczeniem na rynku",
       "website": "https://www.magneticpoint.com/",
       "location": "Szczecin, Polska",
       "position": "Mid Front-end Developer",
@@ -149,7 +155,7 @@
     },
     {
       "name": "AZA Group",
-      "summary": "polska firma e-commerce w branży modowej, posiadająca oddziały w kilku krajach Europy Środkowej",
+      "summary": "Polska firma e-commerce w branży modowej, posiadająca oddziały w kilku krajach Europy Środkowej",
       "website": "https://www.azagroup.eu",
       "location": "Warszawa, Polska",
       "position": "Junior Front-end Developer",
@@ -165,14 +171,14 @@
     },
     {
       "name": "Marcel SA",
-      "summary": "od ponad 30 lat jeden z liderów w tworzeniu oprogramowania dla laboratoriów w Polsce",
+      "summary": "Od ponad 30 lat jeden z liderów w tworzeniu oprogramowania dla laboratoriów w Polsce",
       "website": "https://marcel.pl/",
       "location": "Warszawa, Polska",
       "position": "Junior Front-end Developer",
       "endDate": "2020-10-31",
       "startDate": "2018-11-01",
       "highlights": [
-        "Usprawniłem wiele funkcji interfejsu użytkownika i projektów graficznych aplikacji webowej w AngularJS.",
+        "Usprawniłem wiele funkcji interfejsu użytkownika i projektów graficznych aplikacji webowej.",
         "Napisałem ponad sto testów E2E dla aplikacji AngularJS (Selenium Webdriver, JS).",
         "Utrzymywałem wewnętrzny system szablonów dokumentacji medycznej dla setek klientów w Polsce."
       ]
@@ -191,7 +197,7 @@
     },
     {
       "name": "Teatr 'Rampa'",
-      "summary": "teatr muzyczny tworzący spektakle dla dzieci i dorosłych",
+      "summary": "Teatr muzyczny tworzący spektakle dla dzieci i dorosłych",
       "location": "Warszawa, Polska",
       "position": "Specjalista ds. marketingu, Grafik",
       "endDate": "2019-03-31",
@@ -205,7 +211,7 @@
     },
     {
       "name": "CompLex PR",
-      "summary": "agencja PR i eventowa współpracująca głównie z Toyota Motor Poland",
+      "summary": "Agencja PR i eventowa współpracująca głównie z Toyota Motor Poland",
       "location": "Warszawa, Polska",
       "position": "Częściowy etat, Montażysta Wideo",
       "endDate": "2019-03-31",
@@ -217,7 +223,7 @@
     },
     {
       "name": "Axel Springer",
-      "summary": "jeden z największych polskich portali informacyjnych",
+      "summary": "Jeden z największych polskich portali informacyjnych",
       "location": "Warszawa, Polska",
       "position": "Edytor zdjęć",
       "endDate": "2009-08-31",
@@ -229,7 +235,7 @@
     },
     {
       "name": "Agora AG",
-      "summary": "jeden z największych polskich portali informacyjnych",
+      "summary": "Jeden z największych polskich portali informacyjnych",
       "location": "Warszawa, Polska",
       "position": "Edytor wideo i treści internetowych",
       "endDate": "2009-04-30",
@@ -241,7 +247,7 @@
     },
     {
       "name": "Auchan Polska",
-      "summary": "jedna z największych sieci detalicznych na świecie",
+      "summary": "Jedna z największych sieci detalicznych na świecie",
       "location": "Warszawa, Polska",
       "position": "Asystent w Centrum Zakupowym",
       "endDate": "2008-07-31",
@@ -253,7 +259,7 @@
     },
     {
       "name": "Krajowy Punkt Kontaktowy Programów UE",
-      "summary": "biuro wspierające w pozyskiwaniu funduszy unijnych",
+      "summary": "Biuro wspierające w pozyskiwaniu funduszy unijnych",
       "location": "Warszawa, Polska",
       "position": "Asystent",
       "endDate": "2006-12-31",
@@ -265,7 +271,7 @@
     },
     {
       "name": "CompLex",
-      "summary": "agencja PR i eventowa dla firm IT",
+      "summary": "Agencja PR i eventowa dla firm IT",
       "location": "Warszawa, Polska",
       "position": "Account Executive",
       "endDate": "2005-12-04",

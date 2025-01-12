@@ -23,9 +23,10 @@ companies.forEach(company => {
   company.style.marginTop = '1.75rem';
 });
 
-const italics = document.querySelectorAll('.guKBkN');
-italics.forEach(italic => {
-  italic.style.fontStyle = 'normal';
+const educationDescriptions = document.querySelectorAll('.guKBkN');
+educationDescriptions.forEach(educationDescription => {
+  educationDescription.style.fontStyle = 'normal';
+  educationDescription.innerText = educationDescription.innerText.replace(' in ', ' — ');
 });
 
 const svgPhone = `<svg width="20px" height="20px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -49,16 +50,70 @@ mainInfos.forEach(mainInfo => {
   mainInfo.style.fontSize = '1.6rem';
 });
 
-document.querySelector('.bLikMV').style.fontSize = '1.5rem';
+const summary = document.querySelector('.sc-fHjqbK')
+summary.style.fontSize = '1.5rem';
+summary.style.lineHeight = '1.75rem';
+
+const basicInfoAndPhotoContainer = document.querySelector('.sc-jEABJj');
+basicInfoAndPhotoContainer.style.width = 'calc(100% - 120px)';
+
+const nameAndPhotoDiv = document.querySelector('.sc-feUYzb'); // sc-cHqXqK
+nameAndPhotoDiv.style.fontSize = '3rem';
+nameAndPhotoDiv.style.textAlign = 'left';
+
+const enumeratedBasicInfo = document.querySelector('.gaIQhO')
+enumeratedBasicInfo.style.justifyContent = 'flex-start';
 
 const photo = `<img alt="Photo"
-  src="https://s.gravatar.com/avatar/beac9d1954ae5522d03df94c79ea52d3?size=256&amp;cache=1713425649897"
-  style="width:100px;height:100px;border-radius:15%;border:2px solid #060;margin-left:20px;">`
-const nameAndPhotoDiv = document.querySelector('.sc-cHqXqK');
-nameAndPhotoDiv.style.display = 'flex';
-nameAndPhotoDiv.innerHTML += photo;
+src="https://s.gravatar.com/avatar/beac9d1954ae5522d03df94c79ea52d3?size=256&amp;cache=1713425649897"
+style="width:100px;height:100px;border-radius:15%;border:2px solid #666;margin-left:20px;">`
 
-const skillsLabels = document.querySelectorAll('.cHLYFE');
+const basicInfoContainer = document.querySelector('.sc-cwHqhk');
+basicInfoContainer.style.display = 'flex';
+basicInfoContainer.style.flexFlow = 'row-reverse';
+basicInfoContainer.style.flexFlow = 'row-reverse';
+basicInfoContainer.style.gap = '20px';
+basicInfoContainer.innerHTML += photo;
+
+const skillsLabels = document.querySelectorAll('.sc-hmdnzv');
 skillsLabels.forEach(skillsLabel => {
-  skillsLabel.style.minWidth = '90px';
+  skillsLabel.style.minWidth = '100px';
 });
+
+const h2Titles = document.querySelectorAll('h2')
+h2Titles.forEach(title => {
+  if (title.innerText === "Education") {
+    title.innerText = "Edukacja"
+  } else
+  if (title.innerText === "Experience") {
+    title.innerText = "Doświadczenie"
+  } else
+  if (title.innerText === "Skills") {
+    title.innerText = "Umiejętności"
+  }
+})
+
+const startEndDates = document.querySelectorAll('.sc-dLNtp');
+startEndDates.forEach(date => {
+  let [month, year = ''] = date.innerText.split(' '); 
+  if (month === "January") month = "Styczeń";
+  else if (month === "February") month = "Luty";
+  else if (month === "March") month = "Marzec";
+  else if (month === "April") month = "Kwiecień";
+  else if (month === "May") month = "Maj";
+  else if (month === "June") month = "Czerwiec";
+  else if (month === "July") month = "Lipiec";
+  else if (month === "August") month = "Sierpień";
+  else if (month === "September") month = "Wrzesień";
+  else if (month === "October") month = "Październik";
+  else if (month === "November") month = "Listopad";
+  else if (month === "December") month = "Grudzień";
+  else if (month === "Present") month = "Dotychczas";
+  date.innerText = year ? `${month} ${year}` : month;
+})
+
+const descriptionsInEducation = document.querySelectorAll('.sc-jEABJj.jKKkni')[2].querySelectorAll('.sc-gFqAYk.cmZWqd');
+descriptionsInEducation.forEach(description => {
+  const text = description.innerText;
+  description.innerText = text.replace('in', '—');
+})
