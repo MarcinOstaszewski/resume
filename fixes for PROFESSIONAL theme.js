@@ -1,18 +1,26 @@
-const descriptions = document.querySelectorAll('.sc-dprtRQ');
-descriptions.forEach(description => {
-  const divider = document.createElement('span');
-  divider.innerText = ' — ';
-  const descriptionNode = description.cloneNode(true);
-  const companyDiv = description.closest('.sc-iuUfFv').querySelector('.sc-gQaihK');
-  descriptionNode.style.display = 'inline';
-  companyDiv.style.display = 'inline';
-  companyDiv.style.fontWeight = 'bold';
-
-  companyDiv.after(descriptionNode);
-  companyDiv.after(divider);
-  description.innerText = '';
+// powiększenie nazw stanowisk 
+const jobTitles = document.querySelectorAll('.sc-eldOKa.ebTDwS');
+jobTitles.forEach(title => {
+  title.style.marginTop = '20px';
 });
 
+// pogrubienie nazw miejsc pracy
+const descriptions = document.querySelectorAll('.sc-gFqAYk.cmZWqd');
+descriptions.forEach(description => {
+  // const divider = document.createElement('span');
+  // divider.innerText = ' — ';
+  // const descriptionNode = description.cloneNode(true);
+  const companyDiv = description.closest('.sc-ikkyvV').querySelector('.sc-fPXMhL');
+  // descriptionNode.style.display = 'inline';
+  // companyDiv.style.display = 'inline';
+  companyDiv.style.fontWeight = 'bold';
+
+  // companyDiv.after(descriptionNode);
+  // companyDiv.after(divider);
+  // description.innerText = '';
+});
+
+// poprawki w sekcji Doświadczenie
 const workingTitles = document.querySelectorAll('.sc-fFoeYl');
 workingTitles.forEach(workingTitle => {
   workingTitle.style.fontSize = '1.6rem';
@@ -23,12 +31,14 @@ companies.forEach(company => {
   company.style.marginTop = '1.75rem';
 });
 
+// poprawki w sekcji Edukacja, zamiana "in" na myśliki
 const educationDescriptions = document.querySelectorAll('.guKBkN');
 educationDescriptions.forEach(educationDescription => {
   educationDescription.style.fontStyle = 'normal';
   educationDescription.innerText = educationDescription.innerText.replace(' in ', ' — ');
 });
 
+// podmiana ikony telefonu i powiekszenie ikon
 const svgPhone = `<svg width="20px" height="20px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M9 2C9 1.44772 9.44772 1 10 1H14C14.5523 1 15 1.44772 15 2V3C15 3.55228 14.5523 4 14 4H10C9.44772 4 9 3.55228 9 3V2Z" fill="#000000"/>
 <rect x="5.75" y="1.75" width="12.5" height="20.5" rx="1.75" stroke="#000000" stroke-width="1.5"/>
@@ -40,11 +50,12 @@ icons.forEach(icon => {
   icon.style.width = '13px';
 });
 
+//podmiana fonta na Source Sans
 const link = '<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400..700;1,400..700" rel="stylesheet">';
 document.head.insertAdjacentHTML('beforeend', link);
-
 document.body.style.fontFamily = '"Source Sans 3", sans-serif';
 
+// poprawki stylu w pierwszej sekcji, dodanie zdjęcia
 const mainInfos = document.querySelectorAll('.sc-hJRrWL');
 mainInfos.forEach(mainInfo => {
   mainInfo.style.fontSize = '1.6rem';
@@ -52,7 +63,8 @@ mainInfos.forEach(mainInfo => {
 
 const summary = document.querySelector('.sc-fHjqbK')
 summary.style.fontSize = '1.5rem';
-summary.style.lineHeight = '1.75rem';
+summary.style.lineHeight = '2rem';
+summary.style.marginTop = '4rem';
 
 const basicInfoAndPhotoContainer = document.querySelector('.sc-jEABJj');
 basicInfoAndPhotoContainer.style.width = 'calc(100% - 120px)';
@@ -75,13 +87,17 @@ basicInfoContainer.style.flexFlow = 'row-reverse';
 basicInfoContainer.style.gap = '20px';
 basicInfoContainer.innerHTML += photo;
 
+// wyrównianie nazw Umiejętności
 const skillsLabels = document.querySelectorAll('.sc-hmdnzv');
 skillsLabels.forEach(skillsLabel => {
   skillsLabel.style.minWidth = '100px';
 });
 
+// zamiana angielskich nazw działów
 const h2Titles = document.querySelectorAll('h2')
 h2Titles.forEach(title => {
+  title.style.lineHeight = '6rem';
+  title.style.fontSize = '2.5rem';
   if (title.innerText === "Education") {
     title.innerText = "Edukacja"
   } else
@@ -93,6 +109,7 @@ h2Titles.forEach(title => {
   }
 })
 
+// zamiana angielskich nazw miesięcy
 const startEndDates = document.querySelectorAll('.sc-dLNtp');
 startEndDates.forEach(date => {
   let [month, year = ''] = date.innerText.split(' '); 
@@ -112,8 +129,15 @@ startEndDates.forEach(date => {
   date.innerText = year ? `${month} ${year}` : month;
 })
 
+// zamiana "in" na myślinik w Edukacja
 const descriptionsInEducation = document.querySelectorAll('.sc-jEABJj.jKKkni')[2].querySelectorAll('.sc-gFqAYk.cmZWqd');
 descriptionsInEducation.forEach(description => {
   const text = description.innerText;
-  description.innerText = text.replace('in', '—');
+  description.innerText = text.replace(' in ', ' — ');
 })
+
+// odstępy między zajmowanymi stanowiskami
+const lis = document.querySelectorAll('li');
+lis.forEach(li => {
+  li.style.lineHeight = '2rem';
+});
